@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1556351436 source:d:\1. kuliah\semester 2\struktur data\dreamingadream\dreamingadream.cpp
+	"dreamingADream.h"
+
+1556351436 d:\1. kuliah\semester 2\struktur data\dreamingadream\dreamingadream.h
+	<iostream>
+	<cstddef>
+	<stdlib.h>
+	<conio.h>
+	<string>
+
+1556351436 source:d:\1. kuliah\semester 2\struktur data\dreamingadream\main.cpp
+	"dreamingADream.h"
+
